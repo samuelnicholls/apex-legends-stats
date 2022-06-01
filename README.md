@@ -1,1 +1,1 @@
-# apex-legends-stats
+# Apex Legends Stats
